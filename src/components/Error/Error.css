@@ -1,0 +1,8 @@
+.error{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.error__img{
+   width: 100%;
+}

@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.app{
+    height: 100vh;
+    background: url('../../images/bg.jpeg') center/cover;
+}
+.app-container{
+    max-width: 300px;
+    min-height: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    width: 100%;
+}
+.hasb img{
+    width: 100%;
+}
